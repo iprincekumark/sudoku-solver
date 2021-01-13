@@ -1,0 +1,2 @@
+C:\Users\asus\source\repos\sudokuSolver\Debug\sudokuSolver.exe
+C:\Users\asus\source\repos\sudokuSolver\Debug\sudokuSolver.pdb
